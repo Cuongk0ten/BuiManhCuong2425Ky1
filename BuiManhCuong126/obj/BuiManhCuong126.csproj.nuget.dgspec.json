@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126\\BuiManhCuong126.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126\\BuiManhCuong126.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126\\BuiManhCuong126.csproj",
         "projectName": "BuiManhCuong126",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126\\BuiManhCuong126.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\New folder (2)\\BuiManhCuong126\\BuiManhCuong126\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
